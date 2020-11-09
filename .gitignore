@@ -1,0 +1,11 @@
+/.idea/
+/venv
+*__pycache__*
+*.sql         
+*.mp4        
+*.pyc            
+*.iml
+/migrations
+tests.py
+*.zip
+*.log
